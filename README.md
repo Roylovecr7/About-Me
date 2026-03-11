@@ -2,13 +2,14 @@
 
 🎓 MSc student in Engineering Psychology  
 🚗 Research: Pedestrian–Autonomous Vehicle Interaction (VR), Human Factors, HMI/eHMI  
-🧠 Interests: Behavioral modeling, pedestrian safety and comfort, VR experiment design
+🧠 Interests: Behavioural modeling, pedestrian safety and comfort, VR experiment design
 
 ---
 
 ## 🔬 Research Focus
-- Pedestrian decision-making & perceived safety and comfort (PSC) in interactions with AVs
+- Pedestrian decision-making & perceived safety and comfort (PSC) during interactions with AVs
 - Explicit vs. implicit communication in AV–pedestrian interaction
+- External human–machine interfaces (eHMI) for trust calibration and crossing intent communication
 - VR-based experimental paradigms for traffic psychology
 
 ---
@@ -24,11 +25,11 @@
 
 ## 📌 Featured Projects
 - 🚦 AV yielding timing thresholds (VR study)
-- 📏 AV distance thresholds
-- 🗣️ Speech-rate optimization for older adults (PVA)
+- 📏 AV stopping-distance thresholds
+- 🗣️ Speech rate optimization for older adults (PVA)
 
 ---
 
 ## 📫 Contact
 - Email: cwl54321@126.com  
-- Homepage: https://roychen.github.io
+- Homepage: [https://roychen.github.io](https://roychen.github.io)
